@@ -70,3 +70,19 @@ button {
 button:hover {
     background-color: rgb(158, 157, 157);
 }
+
+#about {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: 450;
+}
+
+#info {
+    font-size: 20px;
+}
+
+#info-highlights {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
