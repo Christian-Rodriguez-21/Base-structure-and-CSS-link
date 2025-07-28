@@ -50,3 +50,23 @@ fieldset {
     font-size: larger;
     font-weight: bold;
 } 
+
+#newsletter {
+    cursor: pointer;
+    margin-right: 525px;
+}
+
+#special-req {
+    width: 500px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    cursor: pointer;
+    background-color: rgb(211, 211, 211);
+}
+
+button:hover {
+    background-color: rgb(158, 157, 157);
+}
