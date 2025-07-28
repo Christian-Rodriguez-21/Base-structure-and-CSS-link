@@ -36,3 +36,17 @@ input {
 input:focus {
     background-color: rgb(216, 216, 216);
 }
+
+#ticket-input {
+    display: flex;
+}
+
+fieldset {
+    background-color: rgb(221, 218, 218);
+    border-radius: 10px;
+}
+
+#ticket-type {
+    font-size: larger;
+    font-weight: bold;
+} 
